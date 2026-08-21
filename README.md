@@ -262,8 +262,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## OUTPUT
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/17fa4bd9-d70a-44a6-bc53-229f715bce0f" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/73fd27b2-7172-421e-b04f-3fde13f95cde" />
-<img width="900" height="1600" alt="WhatsApp Image 2026-07-29 at 11 24 01 AM (1)" src="https://github.com/user-attachments/assets/264ebda3-79f1-4fb5-991f-39a1a7c6a84a" />
-<img width="900" height="1600" alt="WhatsApp Image 2026-07-29 at 11 24 01 AM" src="https://github.com/user-attachments/assets/b005362a-275a-494b-a831-835edb1f2405" />
+**OBJECT DETECTED**
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-14 at 9 20 21 AM (1)" src="https://github.com/user-attachments/assets/c233ec4e-9b0e-487e-abb1-73c27198582e" />
+
+**OBJECT NOT DETECTED**
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-14 at 9 20 21 AM" src="https://github.com/user-attachments/assets/f4af8a5a-9d5b-42e3-ba13-b4e12570ab8e" />
+
 
 ## Result
 
